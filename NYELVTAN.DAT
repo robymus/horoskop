@@ -1,0 +1,461 @@
+;
+; Ez a file tartalmazza a mondatszerkezeteket
+;
+[jos1]
+7
+a %bolygo%-%bolygo% konstellacio miatt %fo1% %me1%
+a %bolygo% hatasa kedvezoen befolyasolja napodat,igy %fo1% %me1%
+a %bolygo% hatasa kedvezotlenul befolyasolja napodat,igy %fo1% %me1%
+a %bolygo% a %csillagjegy% jegyeben van,ezert %fo1% %me1%
+a %csillagjegy% ma kedvezoen hat,igy elofordulhat, hogy %fo1% %me1%
+a %csillagjegy% ma kedvezotlenul hat,igy elofordulhat, hogy %fo1% %me1%
+a %csillagjegy% es a %csillagjegy% ma egyutt all,ne csodalkozz,ha %fo1% %me1%
+[jos2]
+7
+ma %fo1% %me1%,ezert %fo2% %me1%
+elofordulhat,hogy %fo1% %me1%,de nem lenne baj,ha %fo3% %me1%
+%valahogy% alakulhatnak a dolgok,ha %fo1% %me1%,jobb lenne, ha %fo3% %me1%
+%fo2%,mert kulonben %fo1% %me1%
+ha %fo3%,akkor lehet,hogy %fo1% %me1%,ezert %fo2% %me1%
+ma %fo1% %me1%,mi lenne,ha %fo3% %me1%
+a mai napod szerencses, mert %fo1% %me1%
+[valahogy]
+7
+jol
+rosszul
+kellemetlenul
+erdekesen
+kellemesen
+furan
+hirtelen
+[fo1]
+12
+%fonev% %hatarozo% %igea% %hely%
+%fonev% %igea% %hely%
+%ido% %fonev% %hatarozo% %igea% %hely%
+%ido% %fonev% %igea% %hely%
+%ido% %fonev% %hatarozo% %igea%
+%ido% %fonev% %igea%
+%fonev% %hatarozo% %iget% %targy%
+%fonev% %iget% %targy%
+%ido% %fonev% %hatarozo% %iget% %targy%
+%ido% %fonev% %iget% %targy%
+%ido% %fonev% %iget% %targy% %hatarozo% %hely%
+%ido% %fonev% %iget% %targy% %hely%
+[fo2]
+12
+%igea2% %hatarozo% %hely%
+%igea2% %hely%
+%ido% %igea2% %hatarozo% %hely%
+%ido% %igea2% %hely%
+%ido% %igea2% %hatarozo%
+%ido% %igea2%
+%iget2% %hatarozo% %targy%
+%iget2% %targy%
+%ido% %iget2% %hatarozo% %targy%
+%ido% %iget2% %targy%
+%ido% %iget2% %hatarozo% %targy% %hely%
+%ido% %iget2% %targy% %hely%
+[fo3]
+12
+%hatarozo% %igea3% %hely%
+%igea3% %hely%
+%ido% %hatarozo% %igea3% %hely%
+%ido% %igea3% %hely%
+%ido% %hatarozo% %igea3%
+%ido% %igea3%
+%hatarozo% %iget3% %targy%
+%iget3% %targy%
+%ido% %hatarozo% %iget3% %targy%
+%ido% %iget3% %targy%
+%ido% %hatarozo% %iget3% %targy% %hely%
+%ido% %iget3% %targy% %hely%
+[me1]
+4
+
+, %kotoszo% %fo1%
+, %kotoszo% %fo1% %me1%
+, %kotoszo% %fo1% %me1%
+[kotoszo]
+20
+mert
+ennek folyomanyakent
+egyertelmuen
+vagyis
+ugyanis
+ebbol kovetkezik,hogy
+mialtal
+mikoris
+ezert
+minekutana
+tehat
+de
+amiertis
+ennek kovetkezmenyekent
+de legalabb
+emiatt
+es
+de talan
+mivelhogy
+vagy
+[hatarozo]
+10
+okosan
+szepen
+gyorsan
+lassan
+jokedvuen
+lehangoltan
+hirtelen
+egy varazsutesre
+nehezkesen
+konnyeden
+[fonev]
+23
+%nevelo% %h% biro
+%nevelo% %h% macska
+%nevelo% %h% kutya
+a %h% nagymama
+%nevelo% %h% lo
+a %h% baratod
+a edesanyad
+a edesapad
+a ocsed
+a hugod
+a novered
+a batyad
+a csaladod
+%nevelo% %h% szamar
+a %h% baratnod
+%nevelo% %h% rendor
+%nevelo% %h% katona
+%nevelo% %h% elado
+%nevelo% %h% ellenor
+%nevelo% %h% szakacs
+%nevelo% %h% tanar
+a %h% fonok
+a %h% igazgato
+[hely]
+20
+a %h% villamoson
+a %h% metron
+a %h% buszon
+a %h% trolin
+a %h% repulon
+a %h% hajon
+a moziban
+a Vaci utcaban
+egy bevasarlokozpontban
+otthon
+a utcan
+a iskolaban
+a munkahelyeden
+a irodaban
+a %h% taxiban
+a rendorsegen
+a tuzoltosagon
+%helyfonev% mellett
+%helyfonev% elott
+%helyfonev% alatt
+[bolygo]
+10
+Mars
+Jupiter
+Szaturnusz
+Fold
+Hold
+Neptunusz
+Nap
+Uranusz
+Pluto
+Venusz
+[csillagjegy]
+12
+Vizonto
+Halak
+Kos
+Bika
+Ikrek
+Rak
+Oroszlan
+Szuz
+Merleg
+Skorpio
+Nyilas
+Bak
+[helyfonev]
+12
+az eresz
+a sinek
+a %h% jarda
+egy %h% fa
+a %h% letra
+egy %h% macska
+egy %h% fal
+egy %h% kerites
+a %h% Margit-hid
+a %meret% hid
+a disznool
+a tyukudvar
+[h]
+8
+
+%meret%
+%szin%
+%egyebh%
+%meret% %szin%
+%meret% %egyebh%
+%szin% %egyebh%
+%meret% %szin% %egyebh%
+[egyebh]
+20
+savanyu
+keskeny
+edes
+kerek
+sovany
+kover
+eleseszu
+sikeres
+problemas
+atlagos
+egyszeru
+szoros
+erdes
+ragados
+nyulos
+lapos
+finom
+baratsagos
+krumpliorru
+vilagito
+[szin]
+13
+lila
+barna
+atlatszo
+piros
+kek
+feher
+zold
+sarga
+rozsaszin
+fekete
+narancssarga
+hupikek
+szines
+[nevelo]
+5
+nehany
+egy
+a
+egy-ket
+egy tucatnyi
+[meret]
+8
+irinyo-pirinyo
+ici-pici
+egimeszelo
+kicsi
+nagy
+apro
+paranyi
+oriasi
+[ido]
+9
+ebredeskor
+lefekves elott
+hajnalban
+%etkezes% idoben
+%etkezes% elott
+%etkezes% utan
+reggel
+este
+tevezes kozben
+[etkezes]
+8
+ebed
+vacsora
+tizorai
+reggeli
+uzsonna
+estebed
+nasi
+munka
+[igea]
+14
+elhagy
+megutal
+elalszik
+enekel
+tancol
+atmegy elotted
+elesik
+lepottyan
+felugrik
+leul
+megbetegszik
+meggyogyul
+megdorgal
+megharagszik
+[iget]
+19
+meghivja
+megpuszilja
+eluzi
+elolvassa
+leirja
+megerti
+megtolja
+neked adja
+elveszi
+megissza
+ellopja
+elhagyja
+kitorli
+megeszi
+felteszi
+eluti
+szereti
+eltori
+elissza
+;felszolito mod!
+[igea2]
+12
+%ne% aludj el
+%ne% enekelj
+%ne% tancolj
+%ne% dudolj
+nehogy eless
+%ne% pottyanj le
+%ne% ugorj fel
+%ne% ulj le
+nehogy megbetegedj
+%ne% gyogyulj meg
+%ne% dohanyozz
+nehogy megharagudjal
+[iget2]
+21
+%ne% hagyd el
+%ne% utald meg
+%ne% hivd meg
+%ne% puszild meg
+%ne% uzd el
+%ne% olvasd el
+%ne% ird le
+%ne% ne ertsd meg
+%ne% told meg
+%ne% ajandekozd el
+%ne% vedd el
+%ne% idd meg
+%ne% lopd el
+%ne% hagyd el
+%ne% torold ki
+%ne% edd meg
+%ne% tedd fel
+%ne% usd el
+%ne% szeresd
+%ne% tord el
+%ne% idd el
+;ez rak egy ne-t ele neha...
+[ne]
+2
+
+ne
+;felteteles mod!
+[igea3]
+12
+elaludnal
+enekelnel
+tancolnal
+dudolnal
+elesnel
+lepottyannal
+felugornal
+leulnel
+megbetegednel
+meggyogyulnal
+dohanyoznal
+megharagudnal
+[iget3]
+42
+elhagynad
+nem hagynad el
+megutalnad
+nem utalnad meg
+meghivnad
+nem hivnad meg
+megpuszilnad
+nem puszilnad meg
+eluzned
+nem uzned el
+elolvasnad
+nem olvasnad el
+leirnad
+nem irnad le
+megertened
+nem ertened meg
+megtolnad
+nem tolnad meg
+elajandekoznad
+nem ajandekoznad el
+elvenned
+nem venned el
+meginnad
+nem innad meg
+ellopnad
+nem lopnad el
+elhagynad
+nem hagynad el
+kitorolned
+nem torolned ki
+megenned
+nem enned meg
+feltenned
+nem tenned fel
+elutned
+nem utned el
+szeretned
+nem szeretned
+eltorned
+nem torned el
+elinnad
+nem innad el
+[targy]
+35
+a tonhalat
+a ertekesitest
+a %h% kabatot
+a %h% macidat
+a %h% taskadat
+a eszedet
+a szivedet
+a fuledet
+a hajadat
+a szemedet
+a kormodet
+a fogadat
+a ablakot
+a tv-t
+a villamost
+a %h% kocsidat
+a labat
+a %h% labast
+a tejet
+a %h% penztarcadat
+a %h% noteszodat
+a kenyeret
+a kerdest
+a idot
+a %h% jarokelot
+a penzt
+a %h% baratodat
+a %h% baratnodet
+a %h% falut
+a %h% kutyadat
+a %h% macskadat
+a %h% papagajodat
+a %h% hagymat
+a munkafolyamatot
+a termelest
+[@]
